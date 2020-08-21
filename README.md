@@ -1,5 +1,5 @@
 
-# Machine Learning I Technique Demonstration
+# Machine Learning I
 ## Hello and Welcome!
 The intent of this repository is demonstrate competency with preprocessing, hyper-parameter tunning, and  execution of fundamental machine learning algorithms.
 
