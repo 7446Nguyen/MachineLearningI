@@ -5,7 +5,7 @@ The intent of this repository is demonstrate competency with preprocessing, hype
 
 https://www.kaggle.com/c/loanapprove
 
-![](https://github.com/7446Nguyen/Database_FileManagement_Project1/blob/master/scripts/images/ETLsoftware.png)
+![](https://github.com/7446Nguyen/MachineLearningI/blob/master/Classifcation_and_Regression/machine-learning-definition.webp)
 
 ## Respository Contents
 **Classificaiton and Regression** 
