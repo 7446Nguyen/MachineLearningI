@@ -1,20 +1,43 @@
 # Machine Learning I
 ## Hello and Welcome!
-The intent of this repository is demonstrate competency with preprocessing, hyper-parameter tuning, training and testing, and execution of fundamental machine learning algorithms. When browsing files within the repository please open files labeled **FINAL**.  Other files that are not labeled **FINAL** are prior iterations that were used to get to the final file.
+
+## Overview
+
+This repository showcases fundamental machine learning techniques commonly employed in the industry. It emphasizes practical implementation, covering data preprocessing, model training, hyperparameter tuning, and evaluation. The primary dataset utilized is sourced from a [Kaggle Loan Approval competition](https://www.kaggle.com/c/loanapprove).
 
 ![](https://github.com/7446Nguyen/MachineLearningI/blob/master/Classifcation_and_Regression/machine-learning-definition.webp)
 
-## Repository Contents
-Data for the algorithms below used in this project was obtained from: https://www.kaggle.com/c/loanapprove 
+## Repository Structure
 
-**Classification and Regression** 
-- Utilize Naive Bayes, KNN, and Random Forest classification to identify and predict loans that failed or succeeded; and KNN, Random Forest, and Linear regression to predict the value of a charge-off for loans that failed
+- **Classification_and_Regression/**: Demonstrates the application of Naive Bayes, K-Nearest Neighbors (KNN), and Random Forest algorithms for classification tasks.
+- **Logistic_Regression_and_SVM/**: Explores Logistic Regression and Support Vector Machines (SVM) for predictive modeling.
+- **Clustering/**: Focuses on unsupervised learning techniques, including Agglomerative Clustering, to identify inherent data groupings.
+- **Exploratory_Data_Analysis/**: Contains notebooks dedicated to data visualization and feature engineering to uncover underlying patterns and insights.
 
-**Exploratory Data Analysis**   
-- Provide basic analysis of the dataset by identifying duplicates, NAs, data types, and identify interesting trends.  This file is dedicated to EDA, however, is present in every ML project in this repository
+## Key Features
 
-**Logistic Regression and SVM**   
-- Utilize Logistic Regression and Support Vector Machines (with stochastic gradient descent) to classify loans that failed or were successful
+- **Data Preprocessing**: Techniques for handling missing values, encoding categorical variables, and scaling features.
+- **Model Implementation**: Step-by-step guides to building and training various machine learning models.
+- **Hyperparameter Tuning**: Utilization of cross-validation and grid search methods to optimize model performance.
+- **Visualization**: Graphical representations to aid in understanding data distributions and model results.
 
-**Clustering** 
-- Utilize KModes and Agglomerative Clustering to provide segmentation of loan failures.  Exploratory data analysis for each cluster is provided to better understand the characteristics of each cluster.
+## Getting Started
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/7446Nguyen/MachineLearningI.git
+   cd MachineLearningI
+   ```
+2. **Install Dependencies**:
+   - Ensure you have Python installed.
+   - Install necessary packages using `pip` or `conda` as per your environment.
+3. **Explore the Notebooks**:
+   - Navigate to the desired directory (e.g., `Classification_and_Regression`) and open the Jupyter notebooks labeled `FINAL` for the most refined versions.
+
+## Data Source
+
+The dataset employed in this project is from the [Kaggle Loan Approval competition](https://www.kaggle.com/c/loanapprove). It has been processed and is included within this repository for ease of use.
+
+## Authors
+
+- **Jeff Nguyen**
