@@ -21,6 +21,14 @@ This repository showcases fundamental machine learning techniques commonly emplo
 - **Hyperparameter Tuning**: Utilization of cross-validation and grid search methods to optimize model performance.
 - **Visualization**: Graphical representations to aid in understanding data distributions and model results.
 
+## Technologies Used
+
+🐍 Programming Language: Python
+🏗 Data Manipulation and Analysis: pandas 🐼, NumPy 🔢
+📈 Data Visualization: Matplotlib 📊, Seaborn 🎨
+🤖 Machine Learning: scikit-learn ⚙️
+📝 Development Environment: Jupyter Notebook 📒
+
 ## Getting Started
 
 1. **Clone the Repository**:
